@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Paisapp</string>
+
+    <string name="item">selection</string>
+    <string-array name="menu">
+        <item>Tourism</item>
+        <item>Cinemas</item>
+        <item>Theaters</item>
+        <item>Restaurants</item>
+        <item>Party</item>
+    </string-array>
+
+    <string name="drawer_open">open drawer</string>
+    <string name="drawer_close">close drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_tourism">Tourism</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="films">
+        <item>Cine Colombia</item>
+        <item>Royal Films</item>
+    </string-array>
+</resources>
